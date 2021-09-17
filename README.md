@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johnson
-- 👀 I’m interested in deep learning and CV now.
+- 👀 I’m interested in CV/NLP/ML/ASR now.
 - 🌱 I’m currently learning C++ and video-recognition.
 - 💞️ I’m looking to collaborate on a project related to ...
 - 📫 How to reach me 
