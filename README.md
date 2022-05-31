@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Johnson
-- 👀 I’m interested in CV/NLP/ML/ASR now.
-- 🌱 I’m currently learning C++ and video-recognition.
-- 💞️ I’m looking to collaborate on a project related to ...
-- 📫 How to reach me 
+- 👋 我的名字：Johnson
+- 👀 我感兴趣的：CV/NLP/ML/ASR now.
+- 🌱 目前正在学习： C++ and video-recognition.
+- 💞️ 加入我的公众号：人工智能与数据分析
+- 📫 联系我
       email: 593956670@qq.com
 
 <!---
