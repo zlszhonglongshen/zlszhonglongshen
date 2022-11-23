@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 博客园地址：https://blog.csdn.net/zhonglongshen
 - 👯 微信公众号：人工智能与数据分析
-- ![image](https://user-images.githubusercontent.com/27845149/185775092-dff60fa2-ce4a-469b-96a7-fc2dd9f8cb33.png)
+- ![image](qrcode_for_gh_2100fbc15b4e_258.jpg)
 - 🤔 喜欢探索不同的技术
 
 [![zlszhonglongshen's github stats](https://github-readme-stats.vercel.app/api?username=zlszhonglongshen)](https://github.com/zlszhonglongshen/github-readme-stats)
